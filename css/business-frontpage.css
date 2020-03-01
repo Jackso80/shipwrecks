@@ -20,3 +20,6 @@ header {
 .White{
   text-decoration-color: white;
 }
+img{
+	width: 100%;
+}
