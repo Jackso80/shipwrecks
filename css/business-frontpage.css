@@ -23,3 +23,7 @@ header {
 img{
 	width: 100%;
 }
+iframe{
+  align-items: center;
+  overflow: hidden;
+}
