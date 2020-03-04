@@ -1,0 +1,21 @@
+TODO
+
+*Remove Entries when finished
+
+1. Complete written narative
+	--Finish writing written narative
+	--add written narative to about page
+
+2. Complete Background page
+	--Review and rework data criqtique
+	--Review and rework annoted biblography
+	--Review data criques that provide project background
+	--Add topics to page
+
+3. Complete Gallery page
+	--Complete ArcGIS embeded story map
+
+4. Complete Mapping page
+	--Review data vizualizations
+	--Add data vizualizations to page
+	--Add descriptive text to page
