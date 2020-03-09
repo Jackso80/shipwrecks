@@ -23,7 +23,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#">Shipwrecks</a>
+      <a class="navbar-brand" href="index.html">Shipwrecks</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
         aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -41,11 +41,11 @@
           <li class="nav-item">
             <a class="nav-link" href="about.html">About</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="background.html">Maps</a>
-          </li>
           <li class="nav-item active">
-            <a class="nav-link" href="#">Gallery</a>
+            <a class="nav-link" href="maps.html">Maps</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="gallery.html">Gallery</a>
           </li>
         </ul>
       </div>
@@ -64,9 +64,45 @@
   </header>
 
 
-  <iframe width=100% height="800px" src="https://storymaps.arcgis.com/stories/54af3d146f964a9281c54fa1e96c2d15"
-    style="overflow:hidden"></iframe>
+  <!-- Page Content -->
+  <div class="container">
 
+    <div class="row">
+      <div class="col-md-8 mb-5">
+        <h2>An Increase In Ship Wrecks</h2>
+        <hr>
+        <p>We based our project off of data colected by the <a href="njmaritimemuseum.org">New Jersey Maratime
+            Museum</a>. The dataset starts in the 18th century and covers some 4000 individual incidents, mostly
+          spanning the new jersey coast, but with a few in the greater new jersey area. </p>
+        <img src="images/HeatMap.png">
+        <p>Looking at the dataset and doing some intial investigation into the dataset we found a spike around the mid
+          19th century which we couldn't attribute to anything particularly obvious. It started during the civil war and
+          continued afterward, indicating it was not specfically related to the war, or linked to some postwar economic
+          boom. This inspired us to look a little deeper into this surprsing uptick in wrecks. This is when we came
+          across information about ship technologies at the time. This eventually led us to follow the trail of ship
+          design in the era and we found it linked pretty closely to the time frame for novel ship innovations.</p>
+        <a class="btn btn-primary btn-lg" href="gallery.html">Don't Forget to Take a Look At Our Gallery &raquo;</a>
+      </div>
+      <div class="col-md-4 mb-5">
+        <h2>Contact Us</h2>
+        <hr>
+        <address>
+          <strong>Western Washington University</strong>
+          <br>515 High Street
+          <br>Bellingham, WA 98225
+          <br>
+        </address>
+        <address>
+          <abbr title="Phone">Phone:</abbr>
+          (206) 556-1720
+          <br>
+          <abbr title="Email">Email:</abbr>
+          <a href="mailto:#">jonesj76@wwu.edu</a>
+        </address>
+      </div>
+    </div>
+
+  </div>
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
