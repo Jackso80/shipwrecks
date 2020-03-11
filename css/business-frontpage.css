@@ -27,3 +27,6 @@ iframe{
   align-items: center;
   overflow: hidden;
 }
+.links{
+  position:fixed, right: 0;
+}
