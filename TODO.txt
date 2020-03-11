@@ -2,20 +2,36 @@ TODO
 
 *Remove Entries when finished
 
-1. Complete written narative
-	--Finish writing written narative
-	--add written narative to about page
+1. Conclude Written Narrative
+	--Write Conclusion to Narrative
+	--Revise Narrative
+	--Add Narative to HTML
 
-2. Complete Background page
-	--Review and rework data criqtique
+2. Complete About page
+	--Review Data Critique, make needed changes
+	--Add Data Critique to About Page
 	--Review and rework annoted biblography
-	--Review data criques that provide project background
-	--Add topics to page
 
 3. Complete Gallery page
-	--Complete ArcGIS embeded story map
+	--Revise ARCGIS StoryMap
 
 4. Complete Mapping page
-	--Review data vizualizations
-	--Add data vizualizations to page
-	--Add descriptive text to page
+	--Add google maps to page?
+	--Revise descriptive text
+
+5. Revise Index/Home Page
+	--Shorten Text
+	--Rework Titles for cards
+	--Rework descriptions of cards
+
+6. Visuals4 Page (Pie Chart)
+	--Write Descriptive Text
+	--Remove or Replace second Visualization
+	--Redo pie chart with information
+
+7. Visuals3 Page (TimeLine)
+	--Add Descriptive Text
+	--Remove or replace second visualization
+
+8. Visuals2 Page (Types of Ship)
+	--Add and revise descriptive text
