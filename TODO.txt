@@ -1,7 +1,0 @@
-TODO
-
-*Remove Entries when finished
-
-
-6. Visuals4 Page (Pie Chart)
-	--Redo pie chart with information
