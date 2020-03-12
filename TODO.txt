@@ -2,10 +2,6 @@ TODO
 
 *Remove Entries when finished
 
-3. Complete Gallery page
-	--Revise ARCGIS StoryMap
 
 6. Visuals4 Page (Pie Chart)
-	--Write Descriptive Text
-	--Remove or Replace second Visualization
 	--Redo pie chart with information
